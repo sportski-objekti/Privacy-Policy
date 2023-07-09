@@ -1,6 +1,6 @@
 # Privacy-Policy
 
-Ivan Štajcer upravlja web stranicom i mobilnom/stolnom aplikacijom PlayOff ("Usluga").
+INNOVATE upravlja web stranicom i mobilnom/stolnom aplikacijom PlayOff ("Usluga").
 
 Ova stranica vas obavještava o našim pravilima u vezi s prikupljanjem, korištenjem i otkrivanjem osobnih podataka kada koristite našu uslugu i izborima koje ste povezali s tim podacima. Našim Pravilima privatnosti za PlayOff upravlja se putem besplatnih Pravila privatnosti.
 
